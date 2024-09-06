@@ -10,6 +10,8 @@ For any errors or bugs, please create an issue and tag one of us in it so we can
 
 Please note, this is done through volunteer work to help the community have better access to WRFDA. This will take a lot of work as well as a lot of time. If you submit an issue, it may be a while before one of us can attend to it. 
 
+---
+
 If you used this software/tutorial for your research, we ask that you please cite us to help spread the word. 
 # Citation
 Hatheway, W., Benik, J.T., WRFDA_Tutorial: A guide for incorporating data assimilation (2024).
