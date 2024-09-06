@@ -12,4 +12,4 @@ Please note, this is done through volunteer work to help the community have bett
 
 If you used this software/tutorial for your research, we ask that you please cite us to help spread the word. 
 # Citation
-Hatheway, W., Benik, J., WRFDA_Tutorial: A guide for incorporating data assimilation (2024).
+Hatheway, W., Benik, J.T., WRFDA_Tutorial: A guide for incorporating data assimilation (2024).
